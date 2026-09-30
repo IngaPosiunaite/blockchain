@@ -1,4 +1,4 @@
-## Blockcnain 
+## Blockchain 
 This Python project implements a basic blockchain network using Flask to provide a web API.
 - **Proof of Work:** Implements a simple Proof of Work algorithm to secure the blockchain by requiring computational effort to mine blocks.
 - **Consensus:** Provides a basic consensus mechanism to resolve conflicts between different nodes, ensuring the longest valid chain is adopted.
